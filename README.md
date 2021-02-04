@@ -1,4 +1,4 @@
-# Time Series Analysis on  Transportation Usage and COVID-19
+# Time Series Analysis on  Transportation and COVID-19
 
 Since the coronavirus 2019 (COVID-19) outbreak in New York City, people have been advised to keep social-distancing and avoid public transportation, which results in a steep change in the mobility patterns. This project investigates the level of impacts that COVID-19 has had on four means of transportation in NYC, including subway, taxi, for-hire vehicles (FHV, e.g. Uber/Lyft), and Citi Bike.
 
